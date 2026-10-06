@@ -26,7 +26,7 @@ This project is a basic HTML and CSS webpage containing a navigation bar, a cour
 
 | 3 | YouTube Tutorial | apnacollege.html.css | Navigation Bar | How to remove list bullets (`list-style: none`), remove link underlines (`text-decoration: none`) and style links with `:hover`. | I styled the navbar links with padding and a hover color and underline so the link changes when the mouse moves over it. |
 
-| 4 | W3Schools | https://www.w3schools.com/css/css_float.asp | float and inline-block | `float` moves an element left or right so others sit beside it, and `display: inline-block` lets elements sit side by side while keeping width, height, margin and padding. | I used `float` for the navbar items and `inline-block` to place the cards in rows without Flexbox or Grid. |
+| 4 | University of bredforeshire material  |notes and html structures and css.  | float and inline-block | `float` moves an element left or right so others sit beside it, and `display: inline-block` lets elements sit side by side while keeping width, height, margin and padding. | I used `float` for the navbar items and `inline-block` to place the cards in rows without Flexbox or Grid. |
 
 | 5 | MDN Web Docs | https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit | Image properties | `width`, `height` and `object-fit: cover` make an image fill its box without being stretched. | I set card images to `width: 100%`, `height: 160px` and `object-fit: cover` so all cards look consistent. |
 
